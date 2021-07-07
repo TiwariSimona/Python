@@ -1,5 +1,4 @@
-#snakegame
-#our game imports
+
 import pygame,sys,random,time
 
 #check for initializing errors
