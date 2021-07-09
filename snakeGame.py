@@ -59,7 +59,6 @@ def showScore(choice=1):
         
     playSurface.blit(Ssurf,Srect)
 
-    
 #Main Logic of the game
 while True:
     for event in pygame.event.get():
