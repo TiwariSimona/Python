@@ -32,7 +32,6 @@ foodSpawn=True
 
 direction='RIGHT'
 changeTo=direction
-
 score=0
 
 #game over function
