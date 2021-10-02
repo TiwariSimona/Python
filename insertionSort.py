@@ -8,3 +8,5 @@ j=j-1
 else:
 L[j+1]=k
 print('Sorted list : ' , L)
+
+//Time complexity O(N^2)
