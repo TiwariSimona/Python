@@ -13,3 +13,12 @@ def rev(S):
     return S
   else:
     return ( S[1: ])+S[0]
+ 
+
+
+#Recursion2
+def rev(s):'suchismita'
+	if(len(s)==0):
+		return 1
+		else:
+			return rev(s[1:])+s[0]
