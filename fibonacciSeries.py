@@ -1,6 +1,5 @@
 #Write  program to print fibonacci series.
 
-
 def fibo(n):
   if (n<=i):
     return 1
