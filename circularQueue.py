@@ -1,3 +1,4 @@
+
 class CircularQueue():
 
 	# constructor
