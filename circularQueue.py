@@ -1,4 +1,5 @@
 
+
 class CircularQueue():
 
 	# constructor
@@ -71,6 +72,7 @@ ob = CircularQueue(5)
 ob.enqueue(14)
 ob.enqueue(22)
 ob.enqueue(13)
+
 ob.enqueue(-6)
 ob.display()
 print ("Deleted value = ", ob.dequeue())
@@ -81,5 +83,5 @@ ob.enqueue(20)
 ob.enqueue(5)
 ob.display()
 
-# This code is contributed by Sinky Priya
+
 
