@@ -10,3 +10,4 @@ def func(n1,n2):
   if ( O2 = O1):
     print('Both are equal')
 func()
+
