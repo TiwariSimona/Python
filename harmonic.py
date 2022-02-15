@@ -6,3 +6,4 @@ def harmonic(n):
 
 n=int(input("Enter n "))
 print(harmonic(n))
+
