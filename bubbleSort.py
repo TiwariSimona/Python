@@ -5,7 +5,9 @@ for i range(n):
        L[j],L[j+1] = L[j+1],L[j]
 print('Sorted List : ' , L)
       
-#TimeComplexity = O(N^2)
+#TimeComplexity = O(N^2) .
        
 
        
+
+
