@@ -11,3 +11,4 @@ def func(n1,n2):
     print('Both are equal')
 func()
 
+
