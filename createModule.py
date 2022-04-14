@@ -6,7 +6,9 @@
 
 #functions 
 def milestokm(n):
-  '''Returns the converted length from miles to km'''
+  '''Returns the converted length from miles 
+  
+  to km'''
   return n*Mtok
 
 def feettoinches(n):
